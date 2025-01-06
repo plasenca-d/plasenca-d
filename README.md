@@ -28,7 +28,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/plasenca-d?style=social)](https://github.com/plasenca-d)
-[![Twitter Follow](https://img.shields.io/twitter/follow/FranzuaPlasenc1?style=social)]([https://x.com/FranzuaPlasenc1])
+[![Twitter Follow](https://img.shields.io/twitter/follow/FranzuaPlasenc1?style=social)](https://x.com/FranzuaPlasenc1)
 
 </div>
 
